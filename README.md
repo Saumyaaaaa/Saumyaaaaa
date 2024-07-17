@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning MERN<br>🎯 Goals: Full Stack Web Developer<br>🚀 Fun Fact: Did you know the world's first computer programmer was a woman, Ada Lovelace? As a student aspiring to be a software engineer, you're continuing a legacy of women shaping the tech industry. Keep coding and reaching for the stars! 🌟💻</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning MERN<br>🎯 Goals: Full Stack Web Developer<br>🚀 Fun Fact: Did you know the world's first computer programmer was a woman, Ada Lovelace? As a student aspiring to be a software engineer, continuing a legacy of women shaping the tech industry. Keep coding and reaching for the stars! 🌟💻</p>
 
 ###
 
